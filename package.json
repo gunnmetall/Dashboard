@@ -20,9 +20,8 @@
     "react-scripts": "5.0.0"
   },
   "scripts": {
-    "build": "NODE_OPTIONS=--max_old_space_size=4096 react-scripts build"
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "NODE_OPTIONS=--max_old_space_size=4096 react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
